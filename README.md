@@ -1,6 +1,6 @@
 # Machine Learning Coursework
 
-## Romanian forests forest surface and cost history - 1990 to 2019. 
+## Romanian forests surface and cost history - 1990 to 2019. 
 
 
 ### Created using:
